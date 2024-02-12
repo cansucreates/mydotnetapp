@@ -1,0 +1,7 @@
+# Ignore all files and directories
+/*
+
+# Except for the .gitignore file itself
+!.gitignore
+# Except for the project.js file
+!project.js
